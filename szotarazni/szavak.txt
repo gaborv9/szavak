@@ -1,50 +1,25 @@
-re-write or rewrite?
-mandate
-to access sg
-access to sg
-how does that sound?
-reply back
-we’re all in alignment on this as the development effort is under way
-do you have any idea
-I created one more for the YFIFR_MAPPEDDATA table but will hold off on any others
-I was pretty close with my first pass on the naming convention, based off what we used at XTO, however I see there is a CE element (short for “CDS Entity”) that we did not use, so will incorporate that.   
-for everyday use
-https://www.macmillandictionary.com/dictionary/british/sounds-good-great-etc
-my thought is the service id handles this part.
-As of today all views are created, after unit testing we can likely close this out.
-to get sy up to speed - betanit vkit
-alternate - alternativ?
-criteria + singular or plural?
-where we are at now vs where we are - hogy hol tartunk
-wait and see
-keep in mind
-that git has to offer
-back to back meeting
-what they are getting at is
-jagan's not on the call - nincs a callon
-Have a to drop off for another meeting
-rigorous
-to get sy on the same page
-ideally
-base on / base off of sg
-got it
-to diverge
-https://www.allearsenglish.com/ask-politely-english-requests/
-https://www.grammarly.com/blog/know-your-latin-i-e-vs-e-g/
-break-in
-I got you (gotcha)
-playing the devil's advocate
-that may not be the case
-it / this is the way to go
-moving on to the next sprint
-put together
-pinch in
-I can relate to that
-for what's worth
-means to an end
-next - legkozelebb?
-what's what - mi micsoda
-to have sg available
-in terms of sg
-copyback
-grace period
+cutover
+that's right
+I am positive that
+let's call it a day
+that's nice to do sg (jo vmit csinalni)
+tell me about it
+at some point
+cordially 
+beware
+be aware
+to look forward to meeting you or meeting with you
+ramp up vs get ramped up
+No sure I am following
+it's hard to tell
+various 
+with sy in copy (valaki rarakva)
+carry forward
+Oddly enough, no!  Went to grab something to eat
+chart of accounts - szamlatukor?
+Brian has approved travel for Gabor Volgyes to Walldorf for CDS View extraction testing. Gabor is in the DS&A team based in Budapest and is assigned full time to the FTP Project. Please advise on the I/O he should charge travel expenses to.
+chart of accounts
+accrual
+
+
+
